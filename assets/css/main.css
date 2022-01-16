@@ -1,1 +1,18 @@
+.wraper{
+    min-width:200px ;
+    padding: 10px;
+}
+.item h3{
+background-color: rgb(172, 172, 172);
+padding: 5px;
+margin: 5px;
+}
+p{
+height: 0px;
+overflow: hidden;
+}
+.open{
+    height: auto;
+    
+}
 
